@@ -1,5 +1,8 @@
 # Minesweeper Clone
 
+![minesweeper](https://user-images.githubusercontent.com/76085767/136190374-dd67a48b-b4e2-4f21-871a-c69f0fd92f75.png)
+
+
 The aim of minesweeper is to reveal every square in the minefield except for the ones containing mines.
 
 Minesweeper is already capable of drawing a certain view of the minefield, but it will be up to you to write code so that it can get input from the user on where mines are initially placed, and read commands to make the correct changes to the minefield. The finished product of Minesweeper is a simplified playable version of the game.
